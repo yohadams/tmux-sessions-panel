@@ -1,5 +1,7 @@
 # tmux-sessions-panel
 
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/e186f369-6a39-45b5-8953-fde5c6e4d569" />
+
 A small OpenTUI interface for tmux sessions. Click a session in the sidebar to use it in the embedded terminal. Closing the app does not kill your tmux sessions.
 
 Requires Bun 1.4+ and tmux. Git is optional and used for naming sessions.
