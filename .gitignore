@@ -1,0 +1,23 @@
+# Dependencies and compiled binaries
+/node_modules/
+/dist/
+/out/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and diagnostics
+*.log
+/logs/
+/coverage/
+*.lcov
+
+# Caches and editor files
+*.tsbuildinfo
+/.cache/
+/.eslintcache
+/.idea/
+/.vscode/
+.DS_Store
